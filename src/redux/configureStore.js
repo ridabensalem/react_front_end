@@ -6,4 +6,4 @@ const store = configureStore({
   reducer: greetings,
 });
 
-export default store
+export default store;
